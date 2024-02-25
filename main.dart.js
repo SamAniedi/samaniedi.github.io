@@ -73910,7 +73910,7 @@ A.Pt.prototype={
 L(a){var s=null,r=A.bH(a,s,t.w).w.a,q=t.p
 return new A.lX(A.dV(A.a([this.AH(r),A.aY(s,20,s),B.iF],q),B.x,B.D,B.w),A.d4(A.a([A.lU(this.AH(r),1),B.iF],q),B.hp,B.ii,B.w),A.d4(A.a([A.lU(this.AH(r),1),B.iF],q),B.hp,B.ii,B.w),r.a*0.1,B.cX,s)},
 AH(a){var s=null,r=t.p
-return A.dV(A.a([A.alB(A.cw("Hello, Welcome to my Space",s,s,A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av),s),B.hw),A.aY(s,15,s),A.apV(A.cw("I'm Samuel",s,s,A.Es(B.j,34),s),B.lp),A.aY(s,15,s),A.alC(A.d4(A.a([A.cw("A ",s,s,A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av),s),A.lU(new A.uK(A.a([A.aaj("Mobile Developer",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("Data Scientist",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("Web Developer",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("SEO Specialist",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av))],t.u6),B.d_,!0,!0,4,s),1)],r),B.x,B.D,B.w),B.lp),A.aY(s,15,s),A.alB(A.cw("Skilled and proficient in mobile, web, and data science, with a keen focus on SEO optimization. Helping businesses spark digital brilliance, pioneer new standards, craft legacies, and drive innovation fearlessly towards eminence, leveraging advanced SEO techniques to maximize online visibility and propel growth.",s,s,A.lz(A.a3(B.c.av(178.5),0,0,0),16,B.z,1.7),s),B.lq),A.aY(s,22,s),A.alD(!0,A.aY(A.aqt(new A.adU(this),2,B.an,new A.adV(),!0),46,s),s,B.ce,B.o,B.lq,100,!1,s),A.aY(s,12,s),A.alD(!0,A.qk(s,"Download CV ",46,130,new A.adW(this),s),s,B.ce,B.o,B.Eu,100,!1,s)],r),B.bp,B.D,B.bT)}}
+return A.dV(A.a([A.alB(A.cw("Hello, Welcome to my Space",s,s,A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av),s),B.hw),A.aY(s,15,s),A.apV(A.cw("I'm Samuel",s,s,A.Es(B.j,34),s),B.lp),A.aY(s,15,s),A.alC(A.d4(A.a([A.cw("A ",s,s,A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av),s),A.lU(new A.uK(A.a([A.aaj("Data Scientist",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("Web Developer",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("SEO Specialist",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av)),A.aaj("Mobile Developer",A.n9().$3$color$fontSize$fontWeight(B.j,22,B.av))],t.u6),B.d_,!0,!0,4,s),1)],r),B.x,B.D,B.w),B.lp),A.aY(s,15,s),A.alB(A.cw("Skilled and proficient in mobile, web, and data science, with a keen focus on SEO optimization. Helping businesses spark digital brilliance, pioneer new standards, craft legacies, and drive innovation fearlessly towards eminence, leveraging advanced SEO techniques to maximize online visibility and propel growth.",s,s,A.lz(A.a3(B.c.av(178.5),0,0,0),16,B.z,1.7),s),B.lq),A.aY(s,22,s),A.alD(!0,A.aY(A.aqt(new A.adU(this),2,B.an,new A.adV(),!0),46,s),s,B.ce,B.o,B.lq,100,!1,s),A.aY(s,12,s),A.alD(!0,A.qk(s,"Download CV ",46,130,new A.adW(this),s),s,B.ce,B.o,B.Eu,100,!1,s)],r),B.bp,B.D,B.bT)}}
 A.adU.prototype={
 $2(a,b){var s=null,r=this.a,q=A.hD(550),p=r.d[b]
 return A.eh(!1,q,!0,new A.FY(p,r.f===b&&!0,s),s,!0,s,s,s,B.ba,s,s,s,new A.adS(r,b),s,new A.adT(r,b),s,s,B.BN,s,s)},
@@ -73931,7 +73931,7 @@ A.adV.prototype={
 $2(a,b){return A.aY(null,null,6)},
 $S:145}
 A.adW.prototype={
-$0(){$.aon().nm("open",["assets/images/SamAniediCV.pdf","_blank"])},
+$0(){$.aon().nm("open",["https://samaniedi.github.io/assets/assets/images/SamAniediCV.pdf","_blank"])},
 $S:0}
 A.xb.prototype={
 aj(){return new A.Q6(A.a(["Home","Services","About","Portfolio","Contact"],t.s),new A.a1O(),A.za(!0),A.a([B.Fh,B.Kb,B.y_,B.Ka,B.DK,B.F7],t.p),B.l)}}
